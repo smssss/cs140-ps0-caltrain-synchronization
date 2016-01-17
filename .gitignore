@@ -30,9 +30,13 @@
 #Other stuff
 .dSYM
 .DS_Store
+<<<<<<< HEAD
 *.swp
 
 #HW0
 hw0/main
 hw0/map
 hw0/wc
+=======
+*.swp
+>>>>>>> c1054ba6a5efb59956570cc7234db1bcce020140
